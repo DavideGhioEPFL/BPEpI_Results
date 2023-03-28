@@ -3,7 +3,7 @@ Repository contanings the notebooks and codes to reproduce the results presented
 "Bayes-optimal inference for spreading processes on random networks"
 
 ## BPEpI
-To be able to reproduce the simulations, it is required to install the BPEpI package (see the [BPEpI]{https://github.com/ocadni/bpepi} repo)
+To be able to reproduce the simulations, it is required to install the BPEpI package (see the [BPEpI](https://github.com/ocadni/bpepi) repo)
 For an example of how to use the code, see the introductory notebook *demo.ipynb*.
 
 ### Analysys
