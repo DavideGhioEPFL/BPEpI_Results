@@ -3,7 +3,7 @@ Repository contanings the notebooks and codes to reproduce the results presented
 "Bayes-optimal inference for spreading processes on random networks"
 
 <p align="center">
-  <img src="./Plots/Figure4.pdf" width="220" height="240">
+  <img src="./Figure4.png" width="828" height="540">
 </p>
 
 ## BPEpI
